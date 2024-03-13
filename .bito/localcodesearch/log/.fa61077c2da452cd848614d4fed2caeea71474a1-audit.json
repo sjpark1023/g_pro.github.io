@@ -1,0 +1,15 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 30
+    },
+    "auditLog": "c:\\Users\\Fronbiz-NO2\\.bito\\localcodesearch\\log\\.fa61077c2da452cd848614d4fed2caeea71474a1-audit.json",
+    "files": [
+        {
+            "date": 1710210540754,
+            "name": "c:\\Users\\Fronbiz-NO2\\.bito\\localcodesearch\\log\\log.json-2024-03-12-11.log",
+            "hash": "d66bd6ac37559033384c82b9de8ec24785a14568031efb8d1e667a069a3912c9"
+        }
+    ],
+    "hashType": "sha256"
+}
